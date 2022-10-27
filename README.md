@@ -10,6 +10,6 @@
 
 ### My Socials
 <ul>
-  <li>Twitter: [@lemonCS]("https://twitter.com/lemonCS")</li>
-  <li>Github: [@LimeGradient]("https://github.com/LimeGradient")</li>
+  <li>Twitter: [@lemonCS](https://twitter.com/lemonCS)</li>
+  <li>Github: [@LimeGradient](https://github.com/LimeGradient)</li>
 </ul>
