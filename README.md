@@ -7,3 +7,9 @@
   <li>Learn more about C/C++ and OpenGL</li>
   <li>Get some server space</li>
 </ul>
+
+### My Socials
+<ul>
+  <li>Twitter: @lemonCS</li>
+  <li>Github: @LimeGradient</li>
+</ul>
