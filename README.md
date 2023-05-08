@@ -10,7 +10,7 @@
 
 ### My Socials
 <ul>
-  <li>Website: <a href="limegradient.xyz">LimeGradient.xyz</li>
+  <li>Website: <a href="https://www.limegradient.xyz">LimeGradient.xyz</li>
   <li>Twitter: @limegradient</li>
   <li>Github: @LimeGradient</li>
 </ul>
