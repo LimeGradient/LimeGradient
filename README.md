@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-I'm a self taught programmer who loves playing video games, camping, and playing music.
-I have experience in webdev (front and backend), as well as Unity, Minecraft Modding, and many languages (such as C++, C#, Java, Python)
+My name is Lily, i'm a self taught programmer who loves to do Full Stack Development (with React and Node.js) and Game Development/Modding (with C++ or C#)
 
-I have been very interested in modding games and working with those frameworks, and have made some cool projects based off of it!
+🏳️‍⚧️/Pansexual :3
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limegradient&count_private=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-rose-eta-86.vercel.app/api/top-langs/?username=LimeGradient&theme=radical&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-rose-eta-86.vercel.app/api/top-langs/?username=LimeGradient&theme=react&size_weight=0.25&count_weight=0.25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
