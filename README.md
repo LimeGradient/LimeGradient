@@ -6,4 +6,9 @@ My name is Lily, i'm a self taught programmer who loves to do Full Stack Develop
 
 owner @ [trophycase.org](https://github.com/trophycaseorg)
 
-[![Top Langs](https://github-readme-stats-rose-eta-86.vercel.app/api/top-langs/?username=LimeGradient&theme=react&size_weight=0.25&count_weight=0.25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=LimeGradient&theme=react&hide_border=false&include_all_commits=false&count_private=false"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimeGradient&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></td>
+  </tr>
+</table>
