@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Lily, i'm a self taught programmer who loves to do Full Stack Development (with React and Node.js) and Game Development/Modding (with C++ or C#)
+My name is chloe, i'm a self taught programmer who loves to do Full Stack Development (with React and Node.js) and Game Development/Modding (with C++ or C#)
 
-🏳️‍⚧️/Pansexual :3
+🏳️‍⚧️
 
 owner @ [trophycase.org](https://github.com/trophycaseorg)
 
