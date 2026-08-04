@@ -4,5 +4,5 @@ My name is chloe, i'm a self taught programmer who loves to do Full Stack Develo
 
 🏳️‍⚧️
 
-owner @ [trophycase.org](https://github.com/trophycaseorg)
+owner @ [trophycase.org](https://github.com/trophycaseorg)  
 owner @ [Team Reimagined](https://github.com/Team-Reimagined)
