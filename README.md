@@ -5,10 +5,4 @@ My name is chloe, i'm a self taught programmer who loves to do Full Stack Develo
 🏳️‍⚧️
 
 owner @ [trophycase.org](https://github.com/trophycaseorg)
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=LimeGradient&theme=react&hide_border=false&include_all_commits=false&count_private=false"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimeGradient&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></td>
-  </tr>
-</table>
+owner @ [Team Reimagined](https://github.com/Team-Reimagined)
